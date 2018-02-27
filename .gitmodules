@@ -4,3 +4,6 @@
 [submodule "sources_non_forked/jedi-vim"]
 	path = sources_non_forked/jedi-vim
 	url = https://github.com/davidhalter/jedi-vim.git
+[submodule "sources_non_forked/ack.vim"]
+	path = sources_non_forked/ack.vim
+	url = https://github.com/mileszs/ack.vim
