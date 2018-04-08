@@ -7,3 +7,12 @@
 [submodule "sources_non_forked/ack.vim"]
 	path = sources_non_forked/ack.vim
 	url = https://github.com/mileszs/ack.vim
+[submodule "sources_non_forked/vim-racer"]
+	path = sources_non_forked/vim-racer
+	url = https://github.com/racer-rust/vim-racer.git
+[submodule "sources_non_forked/vim-stylus"]
+	path = sources_non_forked/vim-stylus
+	url = https://github.com/iloginow/vim-stylus.git
+[submodule "sources_non_forked/yajs.vim"]
+	path = sources_non_forked/yajs.vim
+	url = https://github.com/othree/yajs.vim.git
